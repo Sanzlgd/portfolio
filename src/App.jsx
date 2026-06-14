@@ -595,7 +595,7 @@ export default function App() {
           <a href="#" className="flex items-center gap-2" onClick={(e) => handleScroll(e, 'hero')}>
             <div className="flex h-8 w-8 items-center justify-center rounded-lg text-[0.75rem] font-bold text-black" style={{ background: 'linear-gradient(135deg,#00ff88,#00d4ff)' }}>S.</div>
             <span className="text-[0.9375rem] font-semibold tracking-tight text-white" style={{ fontFamily: "'JetBrains Mono', monospace" }}>
-              santhosh<span style={{ color: '#00ff88' }}>_dev</span>
+              santhosh<span style={{ color: '#00ff88' }}>_works</span>
             </span>
           </a>
 
@@ -1257,7 +1257,7 @@ export default function App() {
           <p className="mt-3 text-[0.65rem] text-white/20" style={{ fontFamily: "'JetBrains Mono', monospace" }}>Lighthouse scores via CI audit</p>
 
           <div className="mt-10 border-t border-white/10 pt-6">
-            <p className="text-[0.75rem] text-white/30" style={{ fontFamily: "'JetBrains Mono', monospace" }}>&lt;/&gt; Built with precision by Santhosh · Salem, TN · 2025</p>
+            <p className="text-[0.75rem] text-white/30" style={{ fontFamily: "'JetBrains Mono', monospace" }}>&lt;/&gt; Built with precision by Santhosh Works · Salem, TN · 2025</p>
           </div>
         </div>
       </footer>
