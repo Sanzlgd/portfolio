@@ -560,7 +560,7 @@ export default function App() {
     // ═════════ CONTACT SECTION ═════════
     gsap.from('.contact-header h2', {
       scrollTrigger: {
-        trigger: '#contact',
+        trigger: '.contact-header',
         start: 'top 85%',
         toggleActions: 'play none none none'
       },
@@ -573,7 +573,7 @@ export default function App() {
 
     gsap.from('.contact-header p, .contact-btn', {
       scrollTrigger: {
-        trigger: '#contact',
+        trigger: '.contact-header',
         start: 'top 85%',
         toggleActions: 'play none none none'
       },
